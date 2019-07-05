@@ -32,8 +32,6 @@ During 6.24-6.26, I scanned the accepted paper lists of ICML 2019, KDD 2019, and
 - \+ Estimating Node Importance in Knowledge Graphs Using Graph Neural Networks
 - \+ Fast and Accurate Anomaly Detection in Dynamic Graphs with a Two-Pronged Approach
 - \+ Graph Recurrent Networks with Attributed Random Walks
-- \+ Graph Recurrent Networks with Attributed Random Walks
-- \+ Graph Recurrent Networks with Attributed Random Walks
 - \- Graph Representation Learning via Hard and Channel-Wise Attention Networks
 - \- Graph-based Semi-Supervised & Active Learning for Edge Flows
 - \- Knowledge-aware Graph Neural Networks with Label Smoothness Regularization for Recommender Systems
