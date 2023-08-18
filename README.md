@@ -326,7 +326,9 @@ I scanned over the accepted paper lists of top machine learning and data mining 
 
     *Mengzhu Sun, Xi Zhang, Jiaqi Zheng, Guixiang Ma*
 
-
+1. **Towards Better Evaluation for Dynamic Link Prediction**
+   
+   *Farimah Poursafaei, Shenyang Huang, Kellin Pelrine, Reihaneh Rabbany*
 
 ### [AAAI-2022](#contents)
 1. **TLogic: Temporal Logical Rules for Explainable Link Forecasting on Temporal Knowledge Graphs**
