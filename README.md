@@ -395,6 +395,10 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 1. **DDGCN: Dual Dynamic Graph Convolutional Networks for Rumor Detection on Social Media**
 
     *Mengzhu Sun, Xi Zhang, Jiaqi Zheng, Guixiang Ma*
+   
+1. **Towards Better Evaluation for Dynamic Link Prediction**
+   
+   *Farimah Poursafaei, Shenyang Huang, Kellin Pelrine, Reihaneh Rabbany*
 
 ### [CIKM-2022](#contents)
 
