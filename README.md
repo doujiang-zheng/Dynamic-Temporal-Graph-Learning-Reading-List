@@ -2,9 +2,11 @@
 
 I scanned over the accepted paper lists of top machine learning and data mining conferences for interests in dynamic (temporal) graph learning. If you are interested in graph learning, please refer to [Graph Learning Reading List](https://github.com/doujiang-zheng/Graph-Learning-Reading-List).
 
+We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning.git) for further reading.
+
 ## [Contents](#contents)
-  - [IJCAI-2023](#ijcai-2023) [ICML-2023](#icml-2023) [KDD-2023](#kdd-2023) [SIGIR-2023](#sigir-2023) [AAAI-2023](#aaai-2023) [ICLR-2023](#iclr-2023) [WSDM-2023](#wsdm-2023) [WWW-2023](#www-2023) [ICDE-2023](#icde-2023) [SIGMOD-2023](#sigmod-2023) 
-  - [IJCAI-2022](#ijcai-2022) [ICML-2022](#icml-2022)  [KDD-2022](#kdd-2022) [SIGIR-2022](#sigir-2022) [NeurIPS-2022](#neurips-2022) [AAAI-2022](#aaai-2022) [ICLR-2022](#iclr-2022) [WSDM-2022](#wsdm-2022) [WWW-2022](#www-2022) [ICDE-2022](#icde-2022) [SIGMOD-2022](#sigmod-2022)
+  - [IJCAI-2023](#ijcai-2023) [ICML-2023](#icml-2023) [KDD-2023](#kdd-2023) [SIGIR-2023](#sigir-2023) [NeurIPS-2023](#neurips-2023) [CIKM-2023](#cikm-2023) [AAAI-2023](#aaai-2023) [ICLR-2023](#iclr-2023) [WSDM-2023](#wsdm-2023) [WWW-2023](#www-2023) [ICDE-2023](#icde-2023) [SIGMOD-2023](#sigmod-2023) 
+  - [IJCAI-2022](#ijcai-2022) [ICML-2022](#icml-2022)  [KDD-2022](#kdd-2022) [SIGIR-2022](#sigir-2022) [NeurIPS-2022](#neurips-2022) [CIKM-2022](#cikm-2022) [AAAI-2022](#aaai-2022) [ICLR-2022](#iclr-2022) [WSDM-2022](#wsdm-2022) [WWW-2022](#www-2022) [ICDE-2022](#icde-2022) [SIGMOD-2022](#sigmod-2022)
 
 ### [IJCAI-2023](#contents)
 1. **Minimizing Reachability Times on Temporal Graphs via Shifting Labels**
@@ -94,6 +96,74 @@ I scanned over the accepted paper lists of top machine learning and data mining 
 1. **Time-interval Aware Share Recommendation via Bi-directional Continuous Time Dynamic Graphs**
 
     *Ziwei Zhao, Xi Zhu, Tong Xu, Aakas Lizhiyu, Yu Yu, Xueying Li, Zikai Yin, Enhong Chen*
+
+### [NeurIPS-2023](#contents)
+
+1. **Calibrate and Boost Logical Expressiveness of GNN Over Multi-Relational and Temporal Graphs**
+
+    *Yeyuan Chen, Dingmin Wang*
+
+1. **Environment-Aware Dynamic Graph Learning for Out-of-Distribution Generalization**
+
+    *Haonan Yuan, Qingyun Sun, Xingcheng Fu, Ziwei Zhang, Cheng Ji, Hao Peng, Jianxin Li*
+
+1. **Live Graph Lab: Towards Open, Dynamic and Real Transaction Graphs with NFT**
+
+    *Zhen Zhang, Bingqiao Luo, Shengliang Lu, Bingsheng He*
+
+1. **Newton–Cotes Graph Neural Networks: On the Time Evolution of Dynamic Systems**
+
+    *Lingbing Guo, Weiqing Wang, Zhuo Chen, Ningyu Zhang, Zequn Sun, Yixuan Lai, Qiang Zhang, Huajun Chen*
+
+1. **Recurrent Temporal Revision Graph Networks**
+
+    *Yizhou Chen, Anxiang Zeng, Qingtao Yu, Kerui Zhang, Cao Yuanpeng, Kangle Wu, Guangda Huzhang, Han Yu, Zhiming Zhou*
+
+1. **Spectral Invariant Learning for Dynamic Graphs under Distribution Shifts**
+
+    *Zeyang Zhang, Xin Wang, Ziwei Zhang, Zhou Qin, Weigao Wen, Hui Xue', Haoyang Li, Wenwu Zhu*
+
+1. **TFLEX: Temporal Feature-Logic Embedding Framework for Complex Reasoning over Temporal Knowledge Graph**
+
+    *Xueyuan Lin, Chengjin Xu, Haihong E, Fenglong Su, Gengxian Zhou, Tianyi Hu, Ningyuan Li, Mingzhi Sun, Haoran Luo*
+
+1. **TempME: Towards the Explainability of Temporal Graph Neural Networks via Motif Discovery**
+
+    *Jialin Chen, Rex Ying*
+
+1. **Temporal Graph Benchmark for Machine Learning on Temporal Graphs**
+
+    *Shenyang Huang, Farimah Poursafaei, Jacob Danovitch, Matthias Fey, Weihua Hu, Emanuele Rossi, Jure Leskovec, Michael Bronstein, Guillaume Rabusseau, Reihaneh Rabbany*
+
+1. **Towards Better Dynamic Graph Learning: New Architecture and Unified Library**
+
+    *Le Yu, Leilei Sun, Bowen Du, Weifeng Lv*
+
+### [CIKM-2023](#contents)
+
+1. **GraphERT-- Transformers-based Temporal Dynamic Graph Embedding**
+
+    *Moran Beladev, Gilad Katz, Lior Rokach, Uriel Singer, Kira Radinsky*
+
+1. **THGNN: An Embedding-based Model for Anomaly Detection in Dynamic Heterogeneous Social Networks**
+
+    *Yilin Li, Jiaqi Zhu, Congcong Zhang, Yi Yang, Jiawen Zhang, Ying Qiao, Hongan Wang*
+
+1. **ForeSeer: Product Aspect Forecasting Using Temporal Graph Embedding**
+
+    *Zixuan Liu, Gaurush Hiranandani, Kun Qian, Edward W. Huang, Yi Xu, Belinda Zeng, Karthik Subbian, Sheng Wang*
+
+1. **Towards Fair Financial Services for All: A Temporal GNN Approach for Individual Fairness on Transaction Networks**
+
+    *Zixing Song, Yuji Zhang, Irwin King*
+
+1. **RDGSL: Dynamic Graph Representation Learning with Structure Learning**
+
+    *Siwei Zhang, Yun Xiong, Yao Zhang, Yiheng Sun, Xi Chen, Yizhu Jiao, Yangyong Zhu*
+
+1. **Time-aware Graph Structure Learning via Sequence Prediction on Temporal Graphs**
+
+    *Haozhen Zhang, Xueting Han, Xi Xiao, Jing Bai*
 
 ### [AAAI-2023](#contents)
 1. **Temporal Knowledge Graph Reasoning with Historical Contrastive Learning**
@@ -326,7 +396,51 @@ I scanned over the accepted paper lists of top machine learning and data mining 
 
     *Mengzhu Sun, Xi Zhang, Jiaqi Zheng, Guixiang Ma*
 
+### [CIKM-2022](#contents)
 
+1. **Modeling Dynamic Heterogeneous Graph and Node Importance for Future Citation Prediction.**
+
+    *Hao Geng, Deqing Wang, Fuzhen Zhuang, Xuehua Ming, Chenguang Du, Ting Jiang, Haolong Guo, Rui Liu*
+
+1. **Dynamic Network Embedding via Temporal Path Adjacency Matrix Factorization.**
+
+    *Zhuoming Li, Darong Lai*
+
+1. **Dynamic Hypergraph Learning for Collaborative Filtering.**
+
+    *Chunyu Wei, Jian Liang, Bing Bai, Di Liu*
+
+1. **LGP: Few-Shot Class-Evolutionary Learning on Dynamic Graphs.**
+
+    *Tiancheng Huang, Feng Zhao, Donglin Wang*
+
+1. **Embedding Global and Local Influences for Dynamic Graphs.**
+
+    *Meng Liu, Jiaming Wu, Yong Liu*
+
+1. **Multi-Aspect Embedding of Dynamic Graphs.**
+
+    *Aimin Sun, Zhiguo Gong*
+
+1. **DA-Net: Distributed Attention Network for Temporal Knowledge Graph Reasoning.**
+
+    *Kangzheng Liu, Feng Zhao, Hongxu Chen, Yicong Li, Guandong Xu, Hai Jin*
+
+1. **A Self-supervised Riemannian GNN with Time Varying Curvature for Temporal Graph Learning.**
+
+    *Li Sun, Junda Ye, Hao Peng, Philip S. Yu*
+
+1. **Temporality- and Frequency-aware Graph Contrastive Learning for Temporal Network.**
+
+    *Shiyin Tan, Jingyi You, Dongyuan Li*
+
+1. **Along the Time: Timeline-traced Embedding for Temporal Knowledge Graph Completion.**
+
+    *Fuwei Zhang, Zhao Zhang, Xiang Ao, Fuzhen Zhuang, Yongjun Xu, Qing He*
+
+1. **Temporal and Heterogeneous Graph Neural Network for Financial Time Series Prediction.**
+
+    *Sheng Xiang, Dawei Cheng, Chencheng Shang, Ying Zhang, Yuqi Liang*
 
 ### [AAAI-2022](#contents)
 1. **TLogic: Temporal Logical Rules for Explainable Link Forecasting on Temporal Knowledge Graphs**
