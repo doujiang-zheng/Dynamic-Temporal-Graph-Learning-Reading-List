@@ -12,14 +12,6 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
   - [IJCAI-2022](#ijcai-2022) [ICML-2022](#icml-2022) [KDD-2022](#kdd-2022) [SIGIR-2022](#sigir-2022) [NeurIPS-2022](#neurips-2022) [CIKM-2022](#cikm-2022) [AAAI-2022](#aaai-2022) [WSDM-2022](#wsdm-2022) [WWW-2022](#www-2022) [ICDE-2022](#icde-2022)
 
 ### [AAAI-2026](#contents)
-1. **DyC-STG: Dynamic Causal Spatio-Temporal Graph Network for Real-time Data Credibility Analysis in IoT.**
-
-    *Guanjie Cheng, Boyi Li, Peihan Wu, Feiyi Chen, Xinkui Zhao, Mengying Zhu, Shuiguang Deng*
-
-1. **Unlocking Dynamic Inter-Client Spatial Dependencies: A Federated Spatio-temporal Graph Learning Method for Traffic Flow Forecasting.**
-
-    *Feng Wang, Tianxiang Chen, Shuyue Wei, Qian Chu, Yi Zhang, Yifan Sun, Zhiming Zheng*
-
 1. **LORETTA: A Low Resource Framework to Poison Continuous Time Dynamic Graphs.**
 
     *Himanshu Pal, Venkata Sai Pranav Bachina, Ankit Gangwal, Charu Sharma*
@@ -56,10 +48,6 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 
     *Yiqing Zou, Hanning Yuan, Qianyu Yang, Ziqiang Yuan, Shuliang Wang, Sijie Ruan*
 
-1. **Causality-inspired Federated Learning for Dynamic Spatio-Temporal Graphs.**
-
-    *Yuxuan Liu, Wenchao Xu, Haozhao Wang, Zhiming He, Zhaofeng Shi, Chongyang Xu, Peichao Wang, Boyuan Zhang*
-
 1. **Explaining Temporal Graph Neural Network via Quantum-Inspired Evolutionary Algorithm.**
 
     *Masahiro Mitani, Yuya Sasaki*
@@ -81,10 +69,6 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
     *Xin Liu, Yuanhang Yu, Peng Zhu, Dawei Cheng, Changjun Jiang*
 
 ### [WWW-2026](#contents)
-1. **Riemannian Liquid Spatio-Temporal Graph Network.**
-
-    *Liangsi Lu, Jingchao Wang, Zhaorong Dai, Hanqian Liu, Yang Shi*
-
 1. **Exploring Sequential Dynamics on Temporal Graphs via Composite Filtering.**
 
     *Yuanyuan Xu, Danni Wu, Xuemin Lin, Dong Wen, Wenjie Zhang, Lei Chen, Ying Zhang*
@@ -92,10 +76,6 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 1. **Graph Retention Networks for Dynamic Graphs.**
 
     *Qian Chang, Xia Li, Xiufeng Cheng, Runsong Jia, Jinqing Yang, Guoping Hu, Ciprian Doru Giurcaneanu*
-
-1. **Multi-Source Information Driven Spatio-Temporal Hypergraph Learning for Traffic Forecasting.**
-
-    *Ping Zhang, Jiayu Leng, Liang Yang, Anchen Li, Xiaochun Cao, Riting Xia*
 
 1. **TAWRMAC: A Novel Dynamic Graph Representation Learning Method.**
 
@@ -170,21 +150,9 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 
     *Yezi Liu, Jiaxuan Xie, Yanning Shen*
 
-1. **Riding the Wave: Multi-Scale Spatial-Temporal Graph Learning for Highway Traffic Flow Prediction Under Overload Scenarios.**
-
-    *Xigang Sun, Jiahui Jin, Hancheng Wang, Xiangguo Sun, Xiaoliang Wang, Jun Zhu*
-
-1. **Let's Group: A Plug-and-Play SubGraph Learning Method for Memory-Efficient Spatio-Temporal Graph Modeling.**
-
-    *Wenchao Weng, Hanyu Jiang, Mei Wu, Xiao Han, Haidong Gao, Guojiang Shen, Xiangjie Kong*
-
 1. **DGraFormer: Dynamic Graph Learning Guided Multi-Scale Transformer for Multivariate Time Series Forecasting.**
 
     *Han Yan, Dongliang Chen, Guiyuan Jiang, Bin Wang, Lei Cao, Junyu Dong, Yanwei Yu*
-
-1. **Revealing Concept Shift in Spatio-Temporal Graphs via State Learning.**
-
-    *Kuo Yang, Yunhe Guo, Qihe Huang, Zhengyang Zhou, Yang Wang*
 
 1. **BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling.**
 
@@ -208,17 +176,9 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
     *Hanmo Liu, Shimin Di, Haoyang Li, Xun Jian, Yue Wang, Lei Chen*
 
 ### [KDD-2025](#contents)
-1. **Enhancing Microservices Anomaly Detection via Multimodal Data Fusion in the Wavelet Domain and Spatiotemporal Graph-based Diffusion Probabilistic Model.**
-
-    *Kaiqi Ding, Yuanmu Ma, Zijian Song, Kaigui Bian*
-
 1. **SGD-DyG: Self-Reliant Global Dependency Apprehending on Dynamic Graphs.**
 
     *Minglian Han, Ling Wang, Ye Yuan, Xin Luo*
-
-1. **Fine-Grained Traffic Inference from Road to Lane via Spatio-Temporal Graph Node Generation.**
-
-    *Shuhao Li, Weidong Yang, Yue Cui, Xiaoxing Liu, Lingkai Meng, Lipeng Ma, Fan Zhang*
 
 1. **TIDFormer: Exploiting Temporal and Interactive Dynamics Makes A Great Dynamic Graph Transformer.**
 
@@ -239,10 +199,6 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 1. **Bi-Dynamic Graph ODE for Opinion Evolution.**
 
     *Bowen Duan, Henggang Deng, Jinghua Piao, Huandong Wang, Yue Wang*
-
-1. **Dynamic Localisation of Spatial-Temporal Graph Neural Network.**
-
-    *Wenying Duan, Shujun Guo, Zimu Zhou, Wei Huang, Hong Rao, Xiaoxi He*
 
 1. **CAPER: Enhancing Career Trajectory Prediction using Temporal Knowledge Graph and Ternary Relationship.**
 
@@ -298,14 +254,6 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 
     *Yufei Peng, Cheng Yang, Zhengjie Fan, Chuan Shi*
 
-1. **STGS: Spatio-temporal Graph Sparsification Using Reinforcement Learning.**
-
-    *Nasrin Shabani, Amin Beheshti, Yuankai Qi, Venus Haghighi, Jin Foo, Jia Wu*
-
-1. **STKGNN: Scalable Spatio-Temporal Knowledge Graph Reasoning for Activity Recognition.**
-
-    *Gözde Ayse Tataroglu Özbulak, Yash Raj Shrestha, Jean-Paul Calbimonte*
-
 1. **CoHN: Context-Aware Hawkes Graph Network for Temporal Knowledge Graph Reasoning.**
 
     *Xiaowei Tian, Xiaoyan Zhang, Xiaofeng Du, Tianbo Lu*
@@ -331,17 +279,9 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
     *Linlin Zong, Chi Ma, Jiahui Zhou, Xinyue Liu, Wenxin Liang, Xianchao Zhang, Bo Xu*
 
 ### [AAAI-2025](#contents)
-1. **Alleviating Performance Disparity in Adversarial Spatiotemporal Graph Learning Under Zero-Inflated Distribution**
-
-    *Songran Bai, Yuheng Ji, Yue Liu, Xingwei Zhang, Xiaolong Zheng, Daniel Dajun Zeng*
-
 1. **LLM-DR: A Novel LLM-Aided Diffusion Model for Rule Generation on Temporal Knowledge Graphs**
 
     *Kai Chen, Xin Song, Ye Wang, Liqun Gao, Aiping Li, Xiaojuan Zhao, Bin Zhou, Yalong Xie*
-
-1. **Designing Specialized Two-Dimensional Graph Spectral Filters for Spatial-Temporal Graph Modeling**
-
-    *Yuxin Chen, Fangru Lin, Jingyi Huo, Hui Yan*
 
 1. **Responsive Dynamic Graph Disentanglement for Metro Flow Forecasting**
 
@@ -408,10 +348,6 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 
     *Guibin Zhang, Yiyan Qi, Ziyang Cheng, Yanwei Yue, Dawei Cheng, Jian Guo*
 
-1. **Expand and Compress: Exploring Tuning Principles for Continual Spatio-Temporal Graph Forecasting.**
-
-    *Wei Chen, Yuxuan Liang*
-
 1. **N-ForGOT: Towards Not-forgetting and Generalization of Open Temporal Graph Learning.**
 
     *Liping Wang, Xujia Li, Jingshu Peng, Yue Wang, Chen Zhang, Yan Zhou, Lei Chen*
@@ -461,10 +397,6 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 1. **Ranking on Dynamic Graphs: An Effective and Robust Band-Pass Disentangled Approach.**
 
     *Yingxuan Li, Yuanyuan Xu, Xuemin Lin, Wenjie Zhang, Ying Zhang*
-
-1. **Towards Multi-resolution Spatiotemporal Graph Learning for Medical Time Series Classification.**
-
-    *Wei Fan, Jingru Fei, Dingyu Guo, Kun Yi, Xiaozhuang Song, Haolong Xiang, Hangting Ye, Min Li*
 
 1. **Generative Dynamic Graph Representation Learning for Conspiracy Spoofing Detection.**
 
@@ -517,10 +449,6 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 
     *Kai Chen, Ye Wang, Xin Song, Siwei Chen, Han Yu, Aiping Li*
 
-1. **Make Bricks with a Little Straw: Large-Scale Spatio-Temporal Graph Learning with Restricted GPU-Memory Capacity**
-
-    *Binwu Wang, Pengkun Wang, Zhengyang Zhou, Zhe Zhao, Wei Xu, Yang Wang*
-
 1. **Pre-DyGAE: Pre-training Enhanced Dynamic Graph Autoencoder for Occupational Skill Demand Forecasting**
 
     *Xi Chen, Chuan Qin, Zhigaoyuan Wang, Yihang Cheng, Chao Wang, Hengshu Zhu, Hui Xiong*
@@ -551,10 +479,6 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 
     *Huaming Du, Long Shi, Xingyan Chen, Yu Zhao, Hegui Zhang, Carl Yang, Fuzhen Zhuang, Gang Kou*
 
-1. **Pre-Training Identification of Graph Winning Tickets in Adaptive Spatial-Temporal Graph Neural Networks.**
-
-    *Wenying Duan, Tianxiang Fang, Hong Rao, Xiaoxi He*
-
 1. **MemMap: An Adaptive and Latent Memory Structure for Dynamic Graph Learning.**
 
     *Shuo Ji, Mingzhe Liu, Leilei Sun, Chuanren Liu, Tongyu Zhu*
@@ -575,10 +499,6 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 
     *Yuxing Tian, Aiwen Jiang, Qi Huang, Jian Guo, Yiyan Qi*
 
-1. **Irregular Traffic Time Series Forecasting Based on Asynchronous Spatio-Temporal Graph Convolutional Networks.**
-
-    *Weijia Zhang, Le Zhang, Jindong Han, Hao Liu, Yanjie Fu, Jingbo Zhou, Yu Mei, Hui Xiong*
-
 1. **LLM4DyG: Can Large Language Models Solve Spatial-Temporal Problems on Dynamic Graphs?**
 
     *Zeyang Zhang, Xin Wang, Ziwei Zhang, Haoyang Li, Yijian Qin, Wenwu Zhu*
@@ -594,10 +514,6 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 1. **Repeat-Aware Neighbor Sampling for Dynamic Graph Learning.**
 
     *Tao Zou, Yuhao Mao, Junchen Ye, Bowen Du*
-
-1. **Integrating System State into Spatio Temporal Graph Neural Network for Microservice Workload Prediction.**
-
-    *Yang Luo, Mohan Gao, Zhemeng Yu, Haoyuan Ge, Xiaofeng Gao, Tengwei Cai, Guihai Chen*
 
 ### [SIGIR-2024](#contents)
 1. **Transformer-based Reasoning for Learning Evolutionary Chain of Events on Temporal Knowledge Graph.**
@@ -625,10 +541,6 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 
     *Franziska Heeg, Ingo Scholtes*
 
-1. **A Motion-aware Spatio-temporal Graph for Video Salient Object Ranking**
-
-    *Hao Chen, Zhu Yufei, Yongjian Deng*
-
 1. **DECRL: A Deep Evolutionary Clustering Jointed Temporal Knowledge Graph Representation Learning Approach**
 
     *Qian Chen, Ling Chen*
@@ -645,10 +557,6 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 
     *Katherine Tieu, Dongqi Fu, Yada Zhu, Hendrik Hamann, Jingrui He*
 
-1. **EyeGraph: Modularity-aware Spatio Temporal Graph Clustering for Continuous Event-based Eye Tracking**
-
-    *Nuwan Bandara, Thivya Kandappu, Argha Sen, Ila Gokarn, Archan Misra*
-
 1. **State Space Models on Temporal Graphs: A First-Principles Study**
 
     *Jintang Li, Ruofan Wu, Xinzhou Jin, Boqun Ma, Liang Chen, Zibin Zheng*
@@ -658,10 +566,6 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
     *Julia Gastinger, Shenyang Huang, Michael Galkin, Erfan Loghmani, Ali Parviz, Farimah Poursafaei, Jacob Danovitch, Emanuele Rossi, Ioannis Koutis, Heiner Stuckenschmidt, Reihaneh Rabbany, Guillaume Rabusseau*
 
 ### [CIKM-2024](#contents)
-1. **Prompt-Based Spatio-Temporal Graph Transfer Learning**
-
-    *Junfeng Hu,Xu Liu,Zhencheng Fan,Yifang Yin,Shili Xiang,Savitha Ramasamy,Roger Zimmermann*
-
 1. **DTFormer: A Transformer-Based Method for Discrete-Time Dynamic Graph Representation Learning**
 
     *Xi Chen,Yun Xiong,Siwei Zhang,Jiawei Zhang,Yao Zhang,Shiyang Zhou,Xixi Wu,Mingyang Zhang,Tengfei Liu,Weiqiang Wang*
@@ -669,10 +573,6 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 1. **Language Models-enhanced Semantic Topology Representation Learning For Temporal Knowledge Graph Extrapolation**
 
     *Tianli Zhang,Tongya Zheng,Zhenbang Xiao,Zulong Chen,Liangyue Li,Zunlei Feng,Dongxiang Zhang,Mingli Song*
-
-1. **Causality-Aware Spatiotemporal Graph Neural Networks for Spatiotemporal Time Series Imputation**
-
-    *Baoyu Jing,Dawei Zhou,Kan Ren,Carl Yang*
 
 1. **MoTTo: Scalable Motif Counting with Time-aware Topology Constraint for Large-scale Temporal Graphs**
 
@@ -682,34 +582,18 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 
     *Jiaqi Hao,Junfeng Zhao,Zhigang Wang*
 
-1. **Spatio-temporal Graph Normalizing Flow for Probabilistic Traffic Prediction**
-
-    *Yang An,Zhibin Li,Wei Liu,Haoliang Sun,Meng Chen,Wenpeng Lu,Yongshun Gong*
-
 1. **Benchmarking Challenges for Temporal Knowledge Graph Alignment**
 
     *Weixin Zeng,Jie Zhou,Xiang Zhao*
-
-1. **Hierarchical Spatio-Temporal Graph Learning Based on Metapath Aggregation for Emergency Supply Forecasting**
-
-    *Li Lin,Kaiwen Xia,Anqi Zheng,Shijie Hu,Shuai Wang*
 
 ### [AAAI-2024](#contents)
 1. **MDGNN: Multi-relational Dynamic Graph Neural Network for Comprehensive and Dynamic Stock Investment Prediction**
 
     *Qian, Hao\*; Zhou, Hongting; Zhao, Qian; Chen, Hao; Yao, Hongxiang; Wang, Jingwei; Liu, Ziqi; Yu, Fei; Zhang, Zhiqiang; Zhou, Jun*
 
-1. **Hawkes-enhanced Spatial-Temporal Hypergraph Contrastive Learning based on Criminal Correlations**
-
-    *Liang, Ke\*; Zhou, Sihang; Liu, Meng; Liu, Yue; Tu, Wenxuan; Zhang, Yi; Fang, Liming; Liu, Zhe; Liu, Xinwang*
-
 1. **HGE: Embedding Temporal Knowledge Graphs in a Product Space of Heterogeneous Geometric Subspaces**
 
     *Pan, Jiaxin\*; Nayyeri, Mojtaba; Li, Yinan; Staab, Steffen*
-
-1. **CI-STHPAN: Pre-Trained Attention Network for Stock Selection with Channel-Independent Spatio-Temporal Hypergraph**
-
-    *Xia, Hongjie; Ao, Huijie; Li, Long; Liu, Yu; Liu, Sen; Ye, Guangnan\*; Chai, Hongfeng*
 
 1. **Temporal Graph Contrastive Learning for Sequential Recommendation**
 
@@ -718,14 +602,6 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 1. **Spear and Shield: Adversarial Attacks and Defense Methods for Model-Based Link Prediction on Continuous-Time Dynamic Graphs**
 
     *Lee, Dongjin; Lee, Juho; Shin, Kijung\*
-
-1. **Fully-Connected Spatial-Temporal Graph for Multivariate Time Series Data**
-
-    *Wang, Yucheng\*; Xu, Yuecong; Yang, Jianfei; Wu, Min; Li, Xiaoli; Xie, Lihua; Chen, Zhenghua*
-
-1. **Towards Streaming Spatial-Temporal Graph Learning: A Decoupled Perspective**
-
-    *Wang, Binwu; Wang, Pengkun; Zhang, Yudong; Wang, Xu; Zhou, Zhengyang ; Bai, Lei; Wang, Yang\*
 
 ### [ICLR-2024](#contents)
 1. **Causality-Inspired Spatial-Temporal Explanations for Dynamic Graph Neural Networks.**
@@ -781,10 +657,6 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 1. **Efficient Exact and Approximate Betweenness Centrality Computation for Temporal Graphs**
 
     *Tianming Zhang, Yunjun Gao, jie zhao, Lu Chen, Lu Jin, Zhengyi Yang, Bin Cao, JING FAN*
-
-1. **SSTKG: Simple Spatio-Temporal Knowledge Graph for Intepretable and Versatile Dynamic Information Embedding**
-
-    *Ruiyi Yang, Flora Salim, Hao Xue*
 
 1. **On the Feasibility of Simple Transformer for Dynamic Graph Modeling**
 
@@ -906,14 +778,6 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 
     *Wenxin Tai, Bin Chen, Fan Zhou, Ting Zhong, Goce Trajcevski, Yong Wang, Kai Chen*
 
-1. **Localised Adaptive Spatial-Temporal Graph Neural Network**
-
-    *Wenying Duan, Xiaoxi He, Zimu Zhou, Lothar Thiele, Hong Rao*
-
-1. **Learning Joint Relational Co-Evolution in Spatial-Temporal Knowledge Graph for SMEs Supply Chain Prediction**
-
-    *Youru Li, Zhenfeng Zhu, Xiaobo Guo, Linxun Chen, Zhouyin Wang, Yinmeng Wang, Bing Han, Yao Zhao*
-
 ### [SIGIR-2023](#contents)
 1. **DREAM: Adaptive Reinforcement Learning based on Attention Mechanism for Temporal Knowledge Graph Reasoning**
 
@@ -938,10 +802,6 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 1. **Time-interval Aware Share Recommendation via Bi-directional Continuous Time Dynamic Graphs**
 
     *Ziwei Zhao, Xi Zhu, Tong Xu, Aakas Lizhiyu, Yu Yu, Xueying Li, Zikai Yin, Enhong Chen*
-
-1. **Spatio-Temporal Hypergraph Learning for Next POI Recommendation**
-
-    *Xiaodong Yan, Tengwei Song, Yifeng Jiao, Jianshan He, Jiaotuan Wang, Ruopeng Li, Wei Chu*
 
 ### [NeurIPS-2023](#contents)
 1. **Calibrate and Boost Logical Expressiveness of GNN Over Multi-Relational and Temporal Graphs**
@@ -984,14 +844,6 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 
     *Le Yu, Leilei Sun, Bowen Du, Weifeng Lv*
 
-1. **Deciphering Spatio-Temporal Graph Forecasting: A Causal Lens and Treatment**
-
-    *Yutong Xia, Yuxuan Liang, Haomin Wen, Xu Liu, Kun Wang, Zhengyang Zhou, Roger Zimmermann*
-
-1. **Generative Pre-Training of Spatio-Temporal Graph Neural Networks**
-
-    *Zhonghang Li, Lianghao Xia, Yong Xu, Chao Huang*
-
 ### [CIKM-2023](#contents)
 1. **GraphERT-- Transformers-based Temporal Dynamic Graph Embedding**
 
@@ -1017,10 +869,6 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 
     *Haozhen Zhang, Xueting Han, Xi Xiao, Jing Bai*
 
-1. **Spatial-Temporal Graph Boosting Networks: Enhancing Spatial-Temporal Graph Neural Networks via Gradient Boosting**
-
-    *Yujie Fan, Chin-Chia Michael Yeh, Huiyuan Chen, Yan Zheng, Liang Wang, Junpeng Wang, Xin Dai, Zhongfang Zhuang, Wei Zhang*
-
 1. **Heterogeneous Temporal Graph Neural Network Explainer**
 
     *Jiazheng Li, Chunhui Zhang, Chuxu Zhang*
@@ -1029,21 +877,9 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 
     *Yi Liu, Hongrui Xuan, Bohan Li, Meng Wang, Tong Chen, Hongzhi Yin*
 
-1. **Explainable Spatio-Temporal Graph Neural Networks**
-
-    *Jiabin Tang, Lianghao Xia, Chao Huang*
-
 1. **iLoRE: Dynamic Graph Representation with Instant Long-term Modeling and Re-occurrence Preservation**
 
     *Siwei Zhang, Yun Xiong, Yao Zhang, Xixi Wu, Yiheng Sun, Jiawei Zhang*
-
-1. **HST-GT: Heterogeneous Spatial-Temporal Graph Transformer for Delivery Time Estimation in Warehouse-Distribution Integration E-Commerce**
-
-    *Xiaohui Zhao, Shuai Wang, Hai Wang, Tian He, Desheng Zhang, Guang Wang*
-
-1. **STGIN: Spatial-Temporal Graph Interaction Network for Large-scale POI Recommendation**
-
-    *Shaohua Liu, Yu Qi, Gen Li, Mingjian Chen, Teng Zhang, Jia Cheng, Jun Lei*
 
 1. **Logistics Audience Expansion via Temporal Knowledge Graph**
 
@@ -1094,17 +930,9 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 
     *Tao Yang, Jinghao Deng, Xiaojun Quan, Qifan Wang*
 
-1. **Easy Begun Is Half Done: Spatial-Temporal Graph Modeling with ST-Curriculum Dropout**
-
-    *Hongjun Wang, Jiyuan Chen, Tong Pan, Zipei Fan, Xuan Song, Renhe Jiang, Lingyu Zhang, Yi Xie, Zhongyi Wang, Boyuan Zhang*
-
 1. **Where Will Players Move Next? Dynamic Graphs and Hierarchical Fusion for Movement Forecasting in Badminton**
 
     *Kai-Shiang Chang, Wei-Yao Wang, Wen-Chih Peng*
-
-1. **Scalable Spatiotemporal Graph Neural Networks**
-
-    *Andrea Cini, Ivan Marisca, Filippo Maria Bianchi, Cesare Alippi*
 
 1. **Time-Aware Random Walk Diffusion to Improve Dynamic Graph Learning**
 
@@ -1282,22 +1110,6 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 
     *Zhuoning Guo, Hao Liu, Le Zhang, Qi Zhang, Hengshu Zhu, Hui Xiong*
 
-1. **Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer**
-
-    *Bin Lu, Xiaoying Gan, Weinan Zhang, Huaxiu Yao, Luoyi Fu, Xinbing Wang*
-
-1. **Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting**
-
-    *Zezhi Shao, Zhao Zhang, Fei Wang, Yongjun Xu*
-
-1. **Graph2Route: A Dynamic Spatial-Temporal Graph Neural Network for Pick-up and Delivery Route Prediction**
-
-    *Haomin Wen, Youfang Lin, Xiaowei Mao, Fan Wu, Yiji Zhao, Haochen Wang, Jianbin Zheng, Lixia Wu, Haoyuan Hu, Huaiyu Wan*
-
-1. **Uncertainty Quantification of Sparse Travel Demand Prediction with Spatial-Temporal Graph Neural Networks**
-
-    *Dingyi Zhuang, Shenhao Wang, Haris N. Koutsopoulos, Jinhua Zhao*
-
 ### [SIGIR-2022](#contents)
 1. **Dynamic Graph Segmentation for Deep Graph Neural Networks**
 
@@ -1339,10 +1151,6 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 1. **Dynamic Graph Neural Networks Under Spatio-Temporal Distribution Shift.**
 
     *Zeyang Zhang, Xin Wang, Ziwei Zhang, Haoyang Li, Zhou Qin, Wenwu Zhu*
-
-1. **Learning to Reconstruct Missing Data from Spatiotemporal Graphs with Sparse Observations.**
-
-    *Ivan Marisca, Andrea Cini, Cesare Alippi*
 
 ### [CIKM-2022](#contents)
 1. **Modeling Dynamic Heterogeneous Graph and Node Importance for Future Citation Prediction.**
@@ -1389,14 +1197,6 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 
     *Sheng Xiang, Dawei Cheng, Chencheng Shang, Ying Zhang, Yuqi Liang*
 
-1. **Hierarchical Spatio-Temporal Graph Neural Networks for Pandemic Forecasting.**
-
-    *Yihong Ma, Patrick Gérard, Yijun Tian, Zhichun Guo, Nitesh V. Chawla*
-
-1. **ST-GAT: A Spatio-Temporal Graph Attention Network for Accurate Traffic Speed Prediction.**
-
-    *Junho Song, Jiwon Son, Dong-hyuk Seo, Kyungsik Han, Namhyuk Kim, Sang-Wook Kim*
-
 ### [AAAI-2022](#contents)
 1. **TLogic: Temporal Logical Rules for Explainable Link Forecasting on Temporal Knowledge Graphs**
 
@@ -1417,10 +1217,6 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 1. **Defending Graph Convolutional Networks against Dynamic Graph Perturbations via Bayesian Self-Supervision**
 
     *Jun Zhuang, Mohammad Al Hasan*
-
-1. **Disentangled Spatiotemporal Graph Generative Models**
-
-    *Yuanqi Du, Xiaojie Guo, Hengning Cao, Yanfang Ye, Liang Zhao*
 
 ### [WSDM-2022](#contents)
 1. **EvoKG: Jointly Modeling Event Time and Network Structure for Reasoning over Temporal Knowledge Graphs**
@@ -1448,12 +1244,4 @@ We also recommend you refer to [Awesome-DynamicGraphLearning](https://github.com
 1. **Dynamic Hypergraph Convolutional Network**
 
     *Nan Yin, Fuli Feng, Zhigang Luo, Xiang Zhang, Wenjie Wang, Xiao Luo, Chong Chen, Xian-Sheng Hua*
-
-1. **A Data-Driven Spatial-Temporal Graph Neural Network for Docked Bike Prediction**
-
-    *Guanyao Li, Xiaofeng Wang, Gunarto Sindoro Njoo, Shuhan Zhong, S.-H. Gary Chan, Chih-Chieh Hung, Wen-Chih Peng*
-
-1. **Spatial-Temporal Hypergraph Self-Supervised Learning for Crime Prediction**
-
-    *Zhonghang Li, Chao Huang, Lianghao Xia, Yong Xu, Jian Pei*
 
